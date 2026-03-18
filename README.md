@@ -39,6 +39,9 @@ This project is based on an imaginary data downloaded from Kaggle, on workforce 
 # Attrition Analysis
 <img width="892" height="497" alt="image" src="https://github.com/user-attachments/assets/c762359d-5127-4ffe-a730-e1904883ffab" />
 
+# Dashboard File Link
+https://drive.google.com/file/d/1bpksYdRLYP1dk5mfL39i7hp5aAxgfb9R/view?usp=drive_link (Due to File size, I have hosted the file externally and linked in the README for easy access).
+
 
 # Conclusion
 This project demonstrates practical experience in handling real-world datasets, writing optimized DAX, and presenting insights through professional dashboards. It reflects industry-relevant analytical thinking and business understanding.
