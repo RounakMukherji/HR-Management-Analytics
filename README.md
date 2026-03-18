@@ -26,9 +26,19 @@ This project is based on an imaginary data downloaded from Kaggle, on workforce 
 
 # Business Questions answered
 -	Total active employee count 1M
--	Average salary of the company is ₹896.89
+-	Average salary of the company is $896.89
 -	399k employees resigned from the company.
 -	Low experience and high experience attrition rates are 9.95% and 3.60% respectively.
+
+# Workforce Overview
+<img width="899" height="497" alt="image" src="https://github.com/user-attachments/assets/cb4575ef-8f7f-4478-8aec-839807fc4298" />
+
+# Salary Intelligence
+<img width="895" height="500" alt="image" src="https://github.com/user-attachments/assets/2086e985-3258-4791-8bdf-90a094a3b52a" />
+
+# Attrition Analysis
+<img width="892" height="497" alt="image" src="https://github.com/user-attachments/assets/c762359d-5127-4ffe-a730-e1904883ffab" />
+
 
 # Conclusion
 This project demonstrates practical experience in handling real-world datasets, writing optimized DAX, and presenting insights through professional dashboards. It reflects industry-relevant analytical thinking and business understanding.
